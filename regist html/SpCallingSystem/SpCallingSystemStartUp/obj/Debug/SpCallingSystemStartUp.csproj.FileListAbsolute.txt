@@ -1,0 +1,10 @@
+D:\Sample\SpCallingSystemStartUp\ConsoleApp1\bin\Debug\SpCallingSystemStartUp.exe.config
+D:\Sample\SpCallingSystemStartUp\ConsoleApp1\bin\Debug\SpCallingSystemStartUp.exe
+D:\Sample\SpCallingSystemStartUp\ConsoleApp1\bin\Debug\SpCallingSystemStartUp.pdb
+D:\Sample\SpCallingSystemStartUp\ConsoleApp1\obj\Debug\SpCallingSystemStartUp.exe
+D:\Sample\SpCallingSystemStartUp\ConsoleApp1\obj\Debug\SpCallingSystemStartUp.pdb
+D:\regist html\SpCallingSystem\SpCallingSystemStartUp\bin\Debug\SpCallingSystemStartUp.exe.config
+D:\regist html\SpCallingSystem\SpCallingSystemStartUp\bin\Debug\SpCallingSystemStartUp.exe
+D:\regist html\SpCallingSystem\SpCallingSystemStartUp\bin\Debug\SpCallingSystemStartUp.pdb
+D:\regist html\SpCallingSystem\SpCallingSystemStartUp\obj\Debug\SpCallingSystemStartUp.exe
+D:\regist html\SpCallingSystem\SpCallingSystemStartUp\obj\Debug\SpCallingSystemStartUp.pdb

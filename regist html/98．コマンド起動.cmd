@@ -1,0 +1,1 @@
+C:\Contact\rireki\CareerReference2.exe 3584030058428710 /racuos_fullpath "C:\Program Files\Rakuten Card\CenterSystem\ClientCustomer.exe"

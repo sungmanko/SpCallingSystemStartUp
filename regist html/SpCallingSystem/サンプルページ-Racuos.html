@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>sample</title>
+ <meta http-equiv="content-type" charset="shift-jis">
+</head>
+<script>
+
+function exec(){
+	var target1 = document.getElementsByName("param1")[0].value;
+	location.href = "sungman:" + target1;
+}
+
+</script>
+
+【AcePlus起動サンプル】
+<p>
+　 　契約番号 : <input type="text" name="param1" value="3584030058428710"><br/><br/>
+
+<input type="button" name="link" value="Racuos起動" onclick="exec()">

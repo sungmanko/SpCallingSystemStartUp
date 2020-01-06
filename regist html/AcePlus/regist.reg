@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\RacuosLauncher]
+@="URL:RacuosLauncher Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\RacuosLauncher\DefaultIcon]
+
+[HKEY_CLASSES_ROOT\RacuosLauncher\shell]
+
+[HKEY_CLASSES_ROOT\RacuosLauncher\shell\open]
+
+[HKEY_CLASSES_ROOT\RacuosLauncher\shell\open\command]
+@="\"C:\\Contact\\RacuosLaunch\\RacuosLauncher.exe\" \"%1\""

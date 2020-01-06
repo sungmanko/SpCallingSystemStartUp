@@ -1,0 +1,1 @@
+C:\Program Files\Rakuten Card\CenterSystem\ClientCustomer.exe  /direct_open RAC10005_00000 /contract_number 1234123412341234

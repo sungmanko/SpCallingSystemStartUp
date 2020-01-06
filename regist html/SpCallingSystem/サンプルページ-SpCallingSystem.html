@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>SP架電システム―sample page</title>
+</head>
+<script>
+
+function exec(){
+	var target1 = document.getElementsByName("param1")[0].value;
+	var target2 = document.getElementsByName("param2")[0].value;
+	var target3 = document.getElementsByName("param3")[0].value;
+	var target4 = document.getElementsByName("param4")[0].value;
+	var target5 = document.getElementsByName("param5")[0].value;
+	var target6 = document.getElementsByName("param6")[0].value;
+
+	location.href = "SpCallingSystem:" + "/" + target1 + "/" + target2 + "/" + target3 + "/" + target4 + "/" + target5 + "/" + target6;
+}
+
+</script>
+
+【SP架電システム―起動方法サンプル】
+<p>
+　 　カナ氏名 : <input type="text" name="param1" value="ﾗｸﾃﾝﾀﾛｳ"><br/><br/>
+　　顧客氏名 : <input type="text" name="param2" value="楽天太郎"><br/><br/>
+　　自宅電話 : <input type="text" name="param3" value="092-111-1111"><br/><br/>
+　　携帯電話 : <input type="text" name="param4" value="080-2222-3333"><br/><br/>
+　　会社電話 : <input type="text" name="param5" value="03-4444-5555"><br/><br/>
+　不通フラグ : <input type="text" name="param6" value="00101"><p>
+
+<input type="button" name="link" value="SpCallingSystem起動" onclick="exec()">

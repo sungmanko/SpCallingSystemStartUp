@@ -1,0 +1,9 @@
+-------------------------
+
+開発環境：
+　https://mtalk-stage.enomix.co.kr/enomix/login.ee
+
+TEST用ID/パスワード
+１．rakuten1 / rakuten1!
+２．rakuten2 / rakuten1!
+
