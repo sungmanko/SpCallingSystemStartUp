@@ -1,0 +1,5 @@
+D:\Sample\SpCallingSystemStartUp\ConsoleApp1\bin\Release\SpCallingSystemStartUp.exe.config
+D:\Sample\SpCallingSystemStartUp\ConsoleApp1\bin\Release\SpCallingSystemStartUp.exe
+D:\Sample\SpCallingSystemStartUp\ConsoleApp1\bin\Release\SpCallingSystemStartUp.pdb
+D:\Sample\SpCallingSystemStartUp\ConsoleApp1\obj\Release\SpCallingSystemStartUp.exe
+D:\Sample\SpCallingSystemStartUp\ConsoleApp1\obj\Release\SpCallingSystemStartUp.pdb
