@@ -6,3 +6,5 @@ SP Calling System StartUp Sample
 ・Html Page
 
 ・Cmd Batch
+
+★LICENSE有り
