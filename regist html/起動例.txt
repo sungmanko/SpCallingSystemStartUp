@@ -7,4 +7,4 @@ racuos: 3584030058428710 /racuos_fullpath "C:\Program Files\Rakuten Card\CenterS
 
 
 ‡B@direct‹N“®
-C:\Program Files\Rakuten Card\CenterSystem\ClientCustomer.exe  /direct_open RAC10005_00000 /contract_number 1234123412341234
+C:\Program Files\Rakuten Card\CenterSystem\ClientCustomer.exe  /direct_open RAC10005_00000 /contract_number 3584030058428710

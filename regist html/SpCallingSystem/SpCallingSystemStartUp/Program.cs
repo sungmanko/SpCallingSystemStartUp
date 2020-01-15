@@ -12,7 +12,7 @@ namespace SpCallingSystemStartUp
                 string[] parameters = args[0].Split('/');
                 string resultStr = string.Empty;
                 resultStr += "※※※　パラメータ取得結果　※※※" + "\r\n" + "\r\n";
-
+                resultStr += "受付のパラメータ原本：" + args[0].ToString();
                 resultStr += "カナ氏名：" + System.Web.HttpUtility.UrlDecode(parameters[1]) + "\r\n";
                 resultStr += "顧客氏名：" + System.Web.HttpUtility.UrlDecode(parameters[2]) + "\r\n";
                 resultStr += "自宅電話：" + System.Web.HttpUtility.UrlDecode(parameters[3]) + "\r\n";
