@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartArguments>test1/test2/test3/test4/test5</StartArguments>
+    <StartArguments>%25e6%25a5%25bd%25e5%25a4%25a9%25e5%25a4%25aa%25e9%2583%258e/%25ef%25be%2597%25ef%25bd%25b8%25ef%25be%2583%25ef%25be%259d%25ef%25be%2580%25ef%25be%259b%25ef%25bd%25b3/092-303-5491/080-2222-2222/03-3333-3333/00000</StartArguments>
   </PropertyGroup>
 </Project>

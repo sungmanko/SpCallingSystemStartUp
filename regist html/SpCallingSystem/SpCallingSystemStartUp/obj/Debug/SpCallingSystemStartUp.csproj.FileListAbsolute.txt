@@ -8,3 +8,10 @@ D:\regist html\SpCallingSystem\SpCallingSystemStartUp\bin\Debug\SpCallingSystemS
 D:\regist html\SpCallingSystem\SpCallingSystemStartUp\bin\Debug\SpCallingSystemStartUp.pdb
 D:\regist html\SpCallingSystem\SpCallingSystemStartUp\obj\Debug\SpCallingSystemStartUp.exe
 D:\regist html\SpCallingSystem\SpCallingSystemStartUp\obj\Debug\SpCallingSystemStartUp.pdb
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\regist html\SpCallingSystem\SpCallingSystemStartUp\bin\Debug\SpCallingSystemStartUp.exe.config
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\regist html\SpCallingSystem\SpCallingSystemStartUp\bin\Debug\SpCallingSystemStartUp.exe
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\regist html\SpCallingSystem\SpCallingSystemStartUp\bin\Debug\SpCallingSystemStartUp.pdb
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\regist html\SpCallingSystem\SpCallingSystemStartUp\obj\Debug\SpCallingSystemStartUp.csprojAssemblyReference.cache
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\regist html\SpCallingSystem\SpCallingSystemStartUp\obj\Debug\SpCallingSystemStartUp.csproj.CoreCompileInputs.cache
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\regist html\SpCallingSystem\SpCallingSystemStartUp\obj\Debug\SpCallingSystemStartUp.exe
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\regist html\SpCallingSystem\SpCallingSystemStartUp\obj\Debug\SpCallingSystemStartUp.pdb
