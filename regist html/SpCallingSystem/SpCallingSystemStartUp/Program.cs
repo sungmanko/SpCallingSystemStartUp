@@ -12,6 +12,7 @@ namespace SpCallingSystemStartUp
                 string[] parameters = args[0].Split('/');
                 string resultStr = string.Empty;
                 resultStr += "※※※　パラメータ取得結果　※※※" + "\r\n" + "\r\n";
+<<<<<<< HEAD
 
                 resultStr += "カナ氏名：" + System.Web.HttpUtility.UrlDecode(parameters[0]) + "\r\n";
                 resultStr += "顧客氏名：" + System.Web.HttpUtility.UrlDecode(parameters[1]) + "\r\n";
@@ -19,6 +20,15 @@ namespace SpCallingSystemStartUp
                 resultStr += "携帯電話：" + System.Web.HttpUtility.UrlDecode(parameters[3]) + "\r\n";
                 resultStr += "会社電話：" + System.Web.HttpUtility.UrlDecode(parameters[4]) + "\r\n";
                 resultStr += "不通フラグ：" + System.Web.HttpUtility.UrlDecode(parameters[5]) + "\r\n";
+=======
+                resultStr += "受付のパラメータ原本：" + args[0].ToString();
+                resultStr += "カナ氏名：" + System.Web.HttpUtility.UrlDecode(parameters[1]) + "\r\n";
+                resultStr += "顧客氏名：" + System.Web.HttpUtility.UrlDecode(parameters[2]) + "\r\n";
+                resultStr += "自宅電話：" + System.Web.HttpUtility.UrlDecode(parameters[3]) + "\r\n";
+                resultStr += "携帯電話：" + System.Web.HttpUtility.UrlDecode(parameters[4]) + "\r\n";
+                resultStr += "会社電話：" + System.Web.HttpUtility.UrlDecode(parameters[5]) + "\r\n";
+                resultStr += "不通フラグ：" + System.Web.HttpUtility.UrlDecode(parameters[6]) + "\r\n";
+>>>>>>> e6f15dd9cacce4745cdc97a3623c3df5d9ba324f
 
                 MessageBox.Show(resultStr, "【SP架電システム―サンプル】", MessageBoxButton.OK, MessageBoxImage.Information);
             }
