@@ -3,3 +3,9 @@ D:\Sample\SpCallingSystemStartUp\ConsoleApp1\bin\Debug\SpCallingSystemStartUp.ex
 D:\Sample\SpCallingSystemStartUp\ConsoleApp1\bin\Debug\SpCallingSystemStartUp.pdb
 D:\Sample\SpCallingSystemStartUp\ConsoleApp1\obj\Debug\SpCallingSystemStartUp.exe
 D:\Sample\SpCallingSystemStartUp\ConsoleApp1\obj\Debug\SpCallingSystemStartUp.pdb
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\bin\Debug\SpCallingSystemStartUp.exe.config
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\bin\Debug\SpCallingSystemStartUp.exe
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\bin\Debug\SpCallingSystemStartUp.pdb
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\obj\Debug\SpCallingSystemStartUp.csproj.CoreCompileInputs.cache
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\obj\Debug\SpCallingSystemStartUp.exe
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\90. git\SpCallingSystemStartUp\obj\Debug\SpCallingSystemStartUp.pdb
